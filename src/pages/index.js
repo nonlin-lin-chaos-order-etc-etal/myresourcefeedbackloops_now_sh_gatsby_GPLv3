@@ -15,10 +15,11 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>myresourcefeedbackloops.now.sh</title>
+        <title>🐸🚀🌌+∞¤myfeedbacksloops.now.sh</title>
       </Helmet>
-      <h1>my resources feedbacks loops</h1>
-      <p>(* <a href="https://myzone.now.sh/">the central site</a> *)</p>
+      <h1>⊙🐸🚀🌌+∞¤💎🧙🐝💞🏡🌈🐁💚 et cetera et al 🠞 my resources feedbacks loops</h1>
+      <p>(* <a href="https://myzone.now.sh/">the central site for this shepherd's ( vis vitalis ↝↠⇉ ±∞ ) outpost</a> *)</p>
+      <p>(* <a href="https://myresourcesfeedbacksloops.now.sh/">this site's facade</a> *)</p>
       <p>(* <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myresourcefeedbackloops_now_sh_gatsby_GPLv3">this site's GPL3 source code repo at GitHub</a> *)</p>
       <p>(* <a href="https://vercel.com/linear-et-nonlinear-chaos-order-etc-etal/myresourcesfeedbacksloops">this site's now.sh dashboard at Vercel</a> *)</p>
       <h2>
