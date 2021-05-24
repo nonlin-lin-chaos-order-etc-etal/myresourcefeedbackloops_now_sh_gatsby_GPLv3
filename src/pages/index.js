@@ -15,9 +15,11 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>Gatsby + Node.js (TypeScript) API</title>
+        <title>myresourcefeedbackloops.now.sh</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
+      <h1>my resource feedback loops</h1>
+      <p>(* <a href="https://myzone.now.sh/">the central site</a> *)</p>
+      <p>(* <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myresourcefeedbackloops_now_sh_gatsby_GPLv3">this site's GPL3 source code repo at GitHub</a> *)</p>
       <h2>
         Deployed with{' '}
         <a
@@ -37,7 +39,7 @@ function Index() {
         >
           This project
         </a>{' '}
-        is a <a href="https://www.gatsbyjs.org/">Gatsby</a> app with two
+        is a <a href="https://www.gatsbyjs.org/">Gatsby-based</a> app with two
         directories, <code>/src</code> for static content and <code>/api</code>{' '}
         which contains a serverless{' '}
         <a href="https://nodejs.org/en/">Node.js (TypeScript)</a> function. See{' '}
