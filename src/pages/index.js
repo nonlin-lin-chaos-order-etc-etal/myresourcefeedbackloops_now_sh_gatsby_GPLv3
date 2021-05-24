@@ -20,6 +20,7 @@ function Index() {
       <h1>my resources feedbacks loops</h1>
       <p>(* <a href="https://myzone.now.sh/">the central site</a> *)</p>
       <p>(* <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myresourcefeedbackloops_now_sh_gatsby_GPLv3">this site's GPL3 source code repo at GitHub</a> *)</p>
+      <p>(* <a href="https://vercel.com/linear-et-nonlinear-chaos-order-etc-etal/myresourcesfeedbacksloops">this site's now.sh dashboard at Vercel</a> *)</p>
       <h2>
         Deployed with{' '}
         <a
