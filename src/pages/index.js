@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>myresourcefeedbackloops.now.sh</title>
       </Helmet>
-      <h1>my resource feedback loops</h1>
+      <h1>my resources feedbacks loops</h1>
       <p>(* <a href="https://myzone.now.sh/">the central site</a> *)</p>
       <p>(* <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myresourcefeedbackloops_now_sh_gatsby_GPLv3">this site's GPL3 source code repo at GitHub</a> *)</p>
       <h2>
