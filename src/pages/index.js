@@ -2,6 +2,11 @@ import React, { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet';
 import '../styles/index.css';
 
+// Tell webpack this JS file uses this image
+import АЛЕКСАНДР_КАЙДАНОВСКИЙ_КАДР_ИЗ_ФИЛЬМА_СТАЛКЕР_АНДРЕЯ_ТАРКОВСКОГО from "../images/КАЙДАНОВСКИЙ_КАДР_ИЗ_ФИЛЬМА_СТАЛКЕР_ТАРКОВСКОГО.png"
+import СЕТКА_НА_ВХОДЕ_В_ЗОНУ_ФИЛЬМ_СТАЛКЕР_АНДРЕЯ_ТАРКОВСКОГО from "../images/СЕТКА_НА_ВХОДЕ_В_ЗОНУ_ФИЛЬМ_СТАЛКЕР_ТАРКОВСКОГО.png"
+import СТIЙ_ЗАБОРОНЕНА_ЗОНА from "../images/СТIЙ_ЗАБОРОНЕНА_ЗОНА.png"
+
 function Index() {
   const [date, setDate] = useState(null);
   useEffect(() => {
@@ -17,6 +22,12 @@ function Index() {
       <Helmet>
         <title>🐸🚀🌌+∞¤myfeedbacksloops.now.sh</title>
       </Helmet>
+      <img src={СТIЙ_ЗАБОРОНЕНА_ЗОНА} alt="СТIЙ ЗАБОРОНЕНА ЗОНА"/>
+      <br clear="all"/>
+      <img src={СЕТКА_НА_ВХОДЕ_В_ЗОНУ_ФИЛЬМ_СТАЛКЕР_АНДРЕЯ_ТАРКОВСКОГО} alt="СЕТКА НА ВХОДЕ В ЗОНУ ФИЛЬМ СТАЛКЕР АНДРЕЯ ТАРКОВСКОГО"/>
+      <br clear="all"/>
+      <img src={АЛЕКСАНДР_КАЙДАНОВСКИЙ_КАДР_ИЗ_ФИЛЬМА_СТАЛКЕР_АНДРЕЯ_ТАРКОВСКОГО} alt="АЛЕКСАНДР КАЙДАНОВСКИЙ КАДР ИЗ ФИЛЬМА СТАЛКЕР АНДРЕЯ ТАРКОВСКОГО"/>
+      <br clear="all"/>
       <h1>⊙🐸🚀🌌+∞¤💎🧙🐝💞🏡🌈🐁💚 et cetera et al 🠞 my resources feedbacks loops</h1>
       <p>(* <a href="https://myzone.now.sh/">the central site for this shepherd's ( vis vitalis ↝↠⇉ ±∞ ) outpost</a> *)</p>
       <p>(* <a href="https://myresourcesfeedbacksloops.now.sh/">this site's facade</a> *)</p>
@@ -53,6 +64,9 @@ function Index() {
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
+      <p>Copyright АНДРЕЙ ТАРКОВСКИЙ</p>
+      <p>Copyright АЛЕКСАНДР КАЙДАНОВСКИЙ</p>
+      <p>Copyright ЕВГЕНИЙ ФИЛИППОВ</p>
     </main>
   );
 }
